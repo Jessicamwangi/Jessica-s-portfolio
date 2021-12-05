@@ -14,5 +14,4 @@ To Be able to view this webpage, you need:
 Technologies used in this are HTML and CSS together with bootstrap.css.
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+[MIT License](https://choosealicense.com/licenses/mit/)
