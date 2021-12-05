@@ -23,4 +23,22 @@ nav {
   height: 60px;
   background-color: #660000	;
   box-shadow: 2px 2px 12px black;
+  padding: 0px 5%;
+}
+nav ul {
+  display: flex;
+}
+nav ul li a{
+  margin: 30px;
+  font-family: sans-serif;
+  color: #f6f5f6;
+  font-size: 15px;
+  font-weight: 700;
+}
+.active {
+  font-weight: bold;
+  color: white;
+}
+.text-container {
+  font-family: sans-serif;
 }
