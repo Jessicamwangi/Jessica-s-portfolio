@@ -67,7 +67,21 @@ nav ul li a{
 .home-img {
   height: 580px;
   position: absolute;
-  bottom: 0px;
+  bottom: 40px;
   left: 70%;
   float: right;
+}
+.about-container {
+  width: 80%;
+  height: 330px;
+  background-color: #E5AA70;
+  border-radius: 20px;
+  box-shadow: 2px 2px 12px black;
+  display: flex;
+  margin: -7% auto 20px auto;
+  position: relative;
+  
+}
+.about-text {
+  font-size: 25px;
 }
