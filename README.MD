@@ -15,4 +15,5 @@ To Be able to view this webpage, you need:
 Technologies used in this are HTML and CSS together with bootstrap.css.
 
 ### License
+Copyright (c) [2021] [Jessica Mwangi.]
 [MIT License](https://choosealicense.com/licenses/mit/)
