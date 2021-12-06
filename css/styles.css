@@ -67,9 +67,11 @@ nav ul li a{
 .home-img {
   height: 580px;
   position: absolute;
-  bottom: 40px;
+  bottom: 0px;
   left: 70%;
   float: right;
+  transform: translateX(70%);
+  
 }
 .about-container {
   width: 80%;
